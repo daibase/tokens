@@ -93,6 +93,26 @@
       "tags": [
         "compound"
       ]
+    },
+      "chainId": 3,
+      "address": "0x4Ef1d9A329a0CB0658156aFF55c406cC4393A987",
+      "symbol": "DAIX",
+      "name": "Daibase Ropsten v0.1.61",
+      "decimals": 18,
+      "logoURI": "https://https://daibase.github.io/tokens/img/DAIX.svg",
+      "tags": [
+        "compound"
+      ]
+    },
+      "chainId": 100,
+      "address": "0x4Ef1d9A329a0CB0658156aFF55c406cC4393A987",
+      "symbol": "DAIX",
+      "name": "Daibase xDAI v0.1.61",
+      "decimals": 18,
+      "logoURI": "https://https://daibase.github.io/tokens/img/DAIX.svg",
+      "tags": [
+        "compound"
+      ]
     }
   ],
   "version": {
